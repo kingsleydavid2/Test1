@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="59780" started-at="2017-04-25T17:40:41Z" finished-at="2017-04-25T17:41:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="59780" started-at="2017-04-25T17:40:41Z" finished-at="2017-04-25T17:41:41Z">
+      <class name="testcases.TC1">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:testcases.TC1@548e7350]" name="beforeSuite" is-config="true" duration-ms="8685" started-at="2017-04-25T10:40:33Z" finished-at="2017-04-25T10:40:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="loginpage1()[pri:1, instance:testcases.TC1@548e7350]" name="loginpage1" duration-ms="43890" started-at="2017-04-25T10:40:42Z" finished-at="2017-04-25T10:41:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpage1 -->
+        <test-method status="PASS" signature="loginpage2()[pri:2, instance:testcases.TC1@548e7350]" name="loginpage2" duration-ms="15771" started-at="2017-04-25T10:41:25Z" finished-at="2017-04-25T10:41:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpage2 -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:testcases.TC1@548e7350]" name="afterSuite" is-config="true" duration-ms="7496" started-at="2017-04-25T10:41:44Z" finished-at="2017-04-25T10:41:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- testcases.TC1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
